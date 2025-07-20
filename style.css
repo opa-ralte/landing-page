@@ -4,21 +4,31 @@ body {
 }
 
 .first {
+    margin: 2px;
+    padding: 5px;
     border:2px solid red;
 }
 
 .second {
+    margin: 2px;
+    padding: 5px;
     border:2px solid green;
 }
 
 .third {
+    margin: 2px;
+    padding: 5px;
     border:2px solid blue;
 }
 
 .fourth {
+    margin: 2px;
+    padding: 5px;
     border:2px solid yellow;
 }
 
 .fifth {    
+    margin: 2px;
+    padding: 5px;
     border:2px solid pink;
 }
