@@ -1,0 +1,24 @@
+body {
+    display:flex;
+    flex-direction: column;
+}
+
+.first {
+    border:2px solid red;
+}
+
+.second {
+    border:2px solid green;
+}
+
+.third {
+    border:2px solid blue;
+}
+
+.fourth {
+    border:2px solid yellow;
+}
+
+.fifth {    
+    border:2px solid pink;
+}
